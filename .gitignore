@@ -1,0 +1,29 @@
+# Ignore build files and directories
+/build/
+/bin/
+/obj/
+
+# Ignore compiled object files
+*.o
+*.a
+*.so
+*.out
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore dependency files
+*.d
+
+# Ignore IDE specific files (for common IDEs like Visual Studio, Code::Blocks, etc.)
+.vscode/
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
