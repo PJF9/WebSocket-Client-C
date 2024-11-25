@@ -1,0 +1,3 @@
+C:/Users/jacob/Documents/Programming/Projects/Websockets-C/build/CMakeFiles/main.dir
+C:/Users/jacob/Documents/Programming/Projects/Websockets-C/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jacob/Documents/Programming/Projects/Websockets-C/build/CMakeFiles/ZERO_CHECK.dir

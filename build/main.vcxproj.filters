@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jacob\Documents\Programming\Projects\Websockets-C\src\file_writer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\Programming\Projects\Websockets-C\src\reconnect_manager.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\Programming\Projects\Websockets-C\src\websocket_handler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\Programming\Projects\Websockets-C\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jacob\Documents\Programming\Projects\Websockets-C\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5CF86FE0-2160-3988-93EC-DBA3D6D1E3C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

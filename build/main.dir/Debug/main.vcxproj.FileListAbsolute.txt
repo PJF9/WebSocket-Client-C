@@ -1,0 +1,8 @@
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\websockets.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\libssl-3-x64.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\libcrypto-3-x64.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\zlib1.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\uv.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\jansson.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\Debug\pthreadVC3.dll
+C:\Users\jacob\Documents\Programming\Projects\Websockets-C\build\main.dir\Debug\main.vcxproj.Up2Date
